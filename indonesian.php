@@ -1625,22 +1625,22 @@ $_LANG['nodomainextensions'] = "There are no Domain Extensions currently configu
 
 $_LANG['homebegin'] = "Begin the search for your perfect domain name...";
 $_LANG['howcanwehelp'] = "How can we help today?";
-$_LANG['exampledomain'] = "eg. example.com";
-$_LANG['buyadomain'] = "Buy A Domain";
+$_LANG['exampledomain'] = "cth. example.com";
+$_LANG['buyadomain'] = "Beli Domain";
 $_LANG['orderhosting'] = "Order Hosting";
 $_LANG['makepayment'] = "Make Payment";
 $_LANG['getsupport'] = "Get Support";
 
-$_LANG['news'] = "News";
+$_LANG['news'] = "Berita";
 $_LANG['allthelatest'] = "All the latest from";
-$_LANG['readmore'] = "Read More";
-$_LANG['noannouncements'] = "No announcements to display";
+$_LANG['readmore'] = "Baca Selengkapnya";
+$_LANG['noannouncements'] = "Tidak ada pengumuman untuk ditampilkan";
 
-$_LANG['kbsearchexplain'] = "Have a question? Start your search here.";
+$_LANG['kbsearchexplain'] = "Ada pertanyaan? Mulai pencarian disini.";
 $_LANG['readyforquestions'] = "We're ready and waiting for your questions";
 
-$_LANG['restrictedpage'] = "This page is restricted";
-$_LANG['enteremail'] = "Enter email";
+$_LANG['restrictedpage'] = "Halaman ini dibatasi";
+$_LANG['enteremail'] = "Masukkan email";
 
 $_LANG['passwordtips'] = "<strong>Tips for a good password</strong><br />Use both upper and lowercase characters<br />Include at least one symbol (# $ ! % &amp; etc...)<br />Don't use dictionary words";
 
