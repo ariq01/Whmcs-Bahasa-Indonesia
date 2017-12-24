@@ -1822,12 +1822,12 @@ $_LANG['domainchecker']['alreadyincarttitle'] = "Already In Cart";
 $_LANG['domainchecker']['alreadyincartmsg'] = "This domain is already in your shopping cart. Proceed to checkout now to complete your purchase.";
 $_LANG['domainchecker']['alreadyincartcheckoutnow'] = "Checkout Now";
 
-$_LANG['genericerror']['title'] = "Oops, something went wrong!";
-$_LANG['genericerror']['msg'] = "Please try again and if the problem persists, please contact our support team.";
+$_LANG['genericerror']['title'] = "Maaf, ada sesuatu yang salah!";
+$_LANG['genericerror']['msg'] = "Silahkan coba kembali dan jika masalah terulang, silahkan hubungi tim support kami.";
 
 # Licensing Addon
 
-$_LANG['licensingaddon']['mylicenses'] = "My Licenses";
+$_LANG['licensingaddon']['mylicenses'] = "License saya";
 $_LANG['licensingaddon']['latestdownload'] = "Latest Download";
 $_LANG['licensingaddon']['downloadnow'] = "Download Now";
 $_LANG['licensingaddon']['licensekey'] = "License Key";
@@ -1904,11 +1904,11 @@ $_LANG['noPasswordResetWhenLoggedIn'] = "You cannot request a password reset whe
 
 $_LANG['unableToLoadShoppingCart'] = "Unable to load your shopping cart. Please contact support.";
 
-$_LANG['showMenu'] = "Show Menu";
-$_LANG['hideMenu'] = "Hide Menu";
+$_LANG['showMenu'] = "Lihat Menu";
+$_LANG['hideMenu'] = "Sembunyikan Menu";
 
-$_LANG['from'] = "From";
-$_LANG['featuredProduct'] = "Most Popular";
+$_LANG['from'] = "Dari";
+$_LANG['featuredProduct'] = "Paling Populer";
 $_LANG['shoppingCartProductPerMonth'] = "<span>:price</span>/:countmo";
 $_LANG['shoppingCartProductPerYear'] = "<span>:price</span>/:countyr";
 
@@ -1967,17 +1967,17 @@ $_LANG['orderForm']['priceCycle'] = "Price/Cycle";
 $_LANG['orderForm']['edit'] = "Edit";
 $_LANG['orderForm']['update'] = "Update";
 $_LANG['orderForm']['remove'] = "Remove";
-$_LANG['orderForm']['applyPromoCode'] = "Apply Promo Code";
-$_LANG['orderForm']['estimateTaxes'] = "Estimate Taxes";
-$_LANG['orderForm']['removePromotionCode'] = "Remove Promotion Code";
+$_LANG['orderForm']['applyPromoCode'] = "Memakai kode promosi";
+$_LANG['orderForm']['estimateTaxes'] = "Perkiraan pajak";
+$_LANG['orderForm']['removePromotionCode'] = "Hapus kode promosi";
 $_LANG['orderForm']['updateTotals'] = "Update Totals";
-$_LANG['orderForm']['continueShopping'] = "Continue Shopping";
-$_LANG['orderForm']['removeItem'] = "Remove Item";
-$_LANG['orderForm']['yes'] = "Yes";
-$_LANG['orderForm']['cancel'] = "Cancel";
-$_LANG['orderForm']['close'] = "Close";
+$_LANG['orderForm']['continueShopping'] = "Lanjut berbelanja";
+$_LANG['orderForm']['removeItem'] = "Hapus barang";
+$_LANG['orderForm']['yes'] = "Ya";
+$_LANG['orderForm']['cancel'] = "Batal";
+$_LANG['orderForm']['close'] = "Tutup";
 $_LANG['orderForm']['totals'] = "Totals";
-$_LANG['orderForm']['includedWithPlans'] = "Included With Every Plan";
+$_LANG['orderForm']['includedWithPlans'] = "Termasuk Dalam Included With Every Plan";
 $_LANG['orderForm']['whatIsIncluded'] = "What is Included?";
 $_LANG['orderForm']['errorNoProductGroup'] = "Could not load any product groups.";
 $_LANG['orderForm']['errorNoProducts'] = "Product group does not contain any visible products";
